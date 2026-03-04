@@ -35,7 +35,7 @@ Feel free to:
 
 If you use **GeoidLab** or any materials from this tutorial repository, we kindly ask that you cite the associated manuscript (full citation will be updated after acceptance):
 
-> Kelly, C. I. et al. *GeoidLab: A Modular and Automated Python Package for Geoid Computation* (in review).
+> Kelly, C. I. et al. *GeoidLab: An Automated Open-Source Python Toolbox for Gravity-Field Analysis and Vertical Datum Unification* (in review).
 
 Appropriate acknowledgment of the software and tutorials is greatly appreciated.
 
