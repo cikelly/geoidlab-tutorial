@@ -13,8 +13,8 @@ Installation instructions (including the recommended conda environment setup and
 
 The following notebooks are currently available in the [`tutorials/`](tutorials/) folder:
 
-- [`Auvergne.ipynb`](tutorials/Auvergne.ipynb)
-- [`DEM.ipynb`](tutorials/DEM.ipynb)
+- [`Auvergne.ipynb`](tutorials/Auvergne.ipynb): Geoid computation experiment over Auvergne
+- [`DEM.ipynb`](tutorials/DEM.ipynb): Demonstrate `geoidlab`'s DEM capabilities.
 - [`Global Gravity Model.ipynb`](tutorials/Global Gravity Model.ipynb)
 - [`Gravity.ipynb`](tutorials/Gravity.ipynb)
 - [`Kernels.ipynb`](tutorials/Kernels.ipynb)
